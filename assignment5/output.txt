@@ -1,0 +1,17 @@
+=== Car Strategy ===
+Car route from Astana to Borovoe
+Route: Highway and main roads.
+Distance: 250.0 km
+Estimated time: 4 h 10 min
+
+=== Walking Strategy ===
+Walking route from Astana to Borovoe
+Route: Sidewalks and pedestrian paths.
+Distance: 250.0 km
+Estimated time: 50 h 0 min
+
+=== Cycling Strategy ===
+Cycling route from Astana to Borovoe
+Route: Bicycle lanes and cycling paths.
+Distance: 250.0 km
+Estimated time: 16 h 40 min
